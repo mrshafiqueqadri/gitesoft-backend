@@ -2,7 +2,7 @@
 
 Install Composer as First Globaly.
 
-Then Composer Update:
+Then open Terminal and run command:
 	
 	composer update
 
